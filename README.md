@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Simple GUI for practicing HTML, CSS, JS
+Simple project for JS
